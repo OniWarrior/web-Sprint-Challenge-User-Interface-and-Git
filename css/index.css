@@ -144,3 +144,64 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+div.container header > nav{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-evenly;
+}
+
+div.container header > nav > img{
+    padding-left: 3%;
+}
+
+div.container header > nav > a{
+    text-decoration: none;
+    color: black; 
+    padding-left: 5%;  
+    padding-right: 5%;
+}
+
+div.container #future{
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+section.middle-content > div #b1{
+    background-color: teal;
+}
+section.middle-content > div #b2{
+    background-color: gold;
+}
+
+section.middle-content > div #b3{
+    background-color: cadetblue;
+}
+
+section.middle-content > div #b4{
+    background-color: coral;
+}
+
+section.middle-content > div #b5{
+    background-color: crimson;
+}
+
+section.middle-content > div #b6{
+    background-color: forestgreen;
+}
+
+section.middle-content > div #b7{
+    background-color: darkorchid;
+}
+
+section.middle-content > div #b8{
+    background-color:hotpink;
+}
+
+section.middle-content > div #b9{
+    background-color: indigo;
+}
+
+section.middle-content > div #b10{
+    background-color: dodgerblue;
+}
